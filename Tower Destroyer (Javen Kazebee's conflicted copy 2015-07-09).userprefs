@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Entities\EntityController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Towers\TowerController.cs" Line="14" Column="29" />
+      <File FileName="Assets\Scripts\Towers\SniperTowerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Entities\StrongEntityController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Entities\EntityController.cs" Line="11" Column="23" />
+      <File FileName="Assets\Scripts\Towers\GunTowerController.cs" Line="7" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

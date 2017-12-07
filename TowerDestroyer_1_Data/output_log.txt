@@ -1,0 +1,44 @@
+Mono path[0] = 'C:/Users/student/Dropbox/Tower Destroyer/Tower Destroyer/TowerDestroyer_1_Data/Managed'
+Mono path[1] = 'C:/Users/student/Dropbox/Tower Destroyer/Tower Destroyer/TowerDestroyer_1_Data/Mono'
+Mono config path = 'C:/Users/student/Dropbox/Tower Destroyer/Tower Destroyer/TowerDestroyer_1_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/student/Dropbox/Tower Destroyer/Tower Destroyer/TowerDestroyer_1_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55230
+Multi-casting "[IP] 149.175.150.45 [Port] 55230 [Flags] 2 [Guid] 1565316575 [EditorId] 1225703142 [Version] 1048832 [Id] WindowsPlayer(ID-AGPDBT1NNRDK) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [149.175.150.45:55230]
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 755M (ID=0xfcd)
+    Vendor:   NVIDIA
+    VRAM:     1987 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\TowerDestroyer_1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\TowerDestroyer_1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\TowerDestroyer_1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\TowerDestroyer_1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\TowerDestroyer_1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\TowerDestroyer_1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\TowerDestroyer_1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\TowerDestroyer_1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\TowerDestroyer_1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\TowerDestroyer_1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\TowerDestroyer_1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\TowerDestroyer_1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\TowerDestroyer_1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\TowerDestroyer_1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.176 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\TowerDestroyer_1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\TowerDestroyer_1_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 22.386745 ms
+System memory in use before: 21.2 MB.
+System memory in use after: 13.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 236.
+Total: 1.016101 ms (FindLiveObjects: 0.012401 ms CreateObjectMapping: 0.008553 ms MarkObjects: 0.949815 ms  DeleteObjects: 0.041909 ms)
+

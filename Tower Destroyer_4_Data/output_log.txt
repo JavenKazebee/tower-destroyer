@@ -1,0 +1,33 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 755M (ID=0xfcd)
+    Vendor:   NVIDIA
+    VRAM:     1987 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\Tower Destroyer_4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\Tower Destroyer_4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\Tower Destroyer_4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\Tower Destroyer_4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\Tower Destroyer_4_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\Tower Destroyer_4_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.069 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\Tower Destroyer_4_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\student\Dropbox\Tower Destroyer\Tower Destroyer\Tower Destroyer_4_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.322287 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 187.
+Total: 0.210405 ms (FindLiveObjects: 0.016250 ms CreateObjectMapping: 0.013257 ms MarkObjects: 0.161225 ms  DeleteObjects: 0.004704 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.649177 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 283.
+Total: 0.208694 ms (FindLiveObjects: 0.019244 ms CreateObjectMapping: 0.007697 ms MarkObjects: 0.153955 ms  DeleteObjects: 0.027369 ms)
+
